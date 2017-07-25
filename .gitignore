@@ -38,10 +38,12 @@ flickr/
 staticpublisher
 tagfield
 betternavigator/
-
 maintenance-mode/
 reports/
 siteconfig/
 secureassets/
 segment-field/
 blog-sortable-categories/
+activedirectory/
+multivaluefield/
+queuedjobs/
