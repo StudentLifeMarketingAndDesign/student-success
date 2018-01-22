@@ -51,4 +51,5 @@ GD::set_default_quality(80);
 if(Director::isLive()) {
 	Director::forceSSL();
 }
+Authenticator::unregister('MemberAuthenticator');
 Authenticator::set_default_authenticator('SAMLAuthenticator');
